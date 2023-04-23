@@ -1,13 +1,7 @@
 # STARTER-jpa02-nhs-wobuzhidao
 
 
-Repo: https://ucsb-cs156-s23/STARTER-jpa02-nhs-wobuzhidao
-
-* TODO: Correct the "deployed at" link to app on Heroku or Render below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
-
+Repo: https://ucsb-cs156-s23/jpa02-nhs-wobuzhidao
 
 Deployed at: https://jpa02r-nhs-wobuzhidao.onrender.com
 
