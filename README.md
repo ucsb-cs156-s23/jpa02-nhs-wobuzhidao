@@ -1,7 +1,7 @@
 # STARTER-jpa02-nhs-wobuzhidao
 
 
-Repo: https://ucsb-cs156-s23/jpa02-nhs-wobuzhidao
+Repo: https://github.com/ucsb-cs156-s23/jpa02-nhs-wobuzhidao
 
 Deployed at: https://jpa02r-nhs-wobuzhidao.onrender.com
 
